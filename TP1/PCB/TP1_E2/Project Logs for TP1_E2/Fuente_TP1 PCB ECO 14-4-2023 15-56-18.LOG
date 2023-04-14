@@ -1,0 +1,299 @@
+Added Component: Designator=B1(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(DO41)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IM1(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IM2(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IM3(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IM4(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IM5(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MPF102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-226-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPF102/ON%20Semiconductor/view-part/4705681/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2907"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-18 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2907/ON%20Semiconductor/view-part/13809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2907"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-18 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2907/ON%20Semiconductor/view-part/13809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q5(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q6(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q7(TO92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2907"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-18 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2907/ON%20Semiconductor/view-part/13809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q8(TO92)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2907"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-18 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2907/ON%20Semiconductor/view-part/13809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q9(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q10(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q11(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q12(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q13(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q14(TO-220 V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q16(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(RES600)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra(PRESET V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rc1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rc2(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=Rb-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R7-1
+Added Pin To Net: NetName=NetD2_1 Pin=R8-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R6-1
+Added Pin To Net: NetName=NetD2_2 Pin=Rc1-2
+Added Pin To Net: NetName=NetD2_2 Pin=Rc2-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetIM1_1 Pin=IM1-1
+Added Pin To Net: NetName=NetIM1_1 Pin=J2-1
+Added Pin To Net: NetName=NetIM1_1 Pin=Q14-3
+Added Net: Name=NetIM1_1
+Added Pin To Net: NetName=NetIM1_2 Pin=IM1-2
+Added Pin To Net: NetName=NetIM1_2 Pin=J2-2
+Added Pin To Net: NetName=NetIM1_2 Pin=R14-1
+Added Pin To Net: NetName=NetIM1_2 Pin=R15-2
+Added Net: Name=NetIM1_2
+Added Pin To Net: NetName=NetIM2_1 Pin=IM2-1
+Added Pin To Net: NetName=NetIM2_1 Pin=J1-1
+Added Pin To Net: NetName=NetIM2_1 Pin=Q16-3
+Added Net: Name=NetIM2_1
+Added Pin To Net: NetName=NetIM2_2 Pin=IM2-2
+Added Pin To Net: NetName=NetIM2_2 Pin=IM3-2
+Added Pin To Net: NetName=NetIM2_2 Pin=J1-2
+Added Pin To Net: NetName=NetIM2_2 Pin=J3-2
+Added Pin To Net: NetName=NetIM2_2 Pin=Q12-3
+Added Net: Name=NetIM2_2
+Added Pin To Net: NetName=NetIM3_1 Pin=IM3-1
+Added Pin To Net: NetName=NetIM3_1 Pin=J3-1
+Added Pin To Net: NetName=NetIM3_1 Pin=Q14-1
+Added Net: Name=NetIM3_1
+Added Pin To Net: NetName=NetIM4_1 Pin=IM4-1
+Added Pin To Net: NetName=NetIM4_1 Pin=J4-1
+Added Net: Name=NetIM4_1
+Added Pin To Net: NetName=NetIM4_2 Pin=IM4-2
+Added Pin To Net: NetName=NetIM4_2 Pin=J4-2
+Added Pin To Net: NetName=NetIM4_2 Pin=Q9-1
+Added Pin To Net: NetName=NetIM4_2 Pin=Q10-3
+Added Net: Name=NetIM4_2
+Added Pin To Net: NetName=NetIM5_1 Pin=IM5-1
+Added Pin To Net: NetName=NetIM5_1 Pin=J5-1
+Added Net: Name=NetIM5_1
+Added Pin To Net: NetName=NetIM5_2 Pin=IM5-2
+Added Pin To Net: NetName=NetIM5_2 Pin=J5-2
+Added Pin To Net: NetName=NetIM5_2 Pin=Q4-1
+Added Pin To Net: NetName=NetIM5_2 Pin=Q6-3
+Added Net: Name=NetIM5_2
+Added Pin To Net: NetName=NetQ2_B Pin=R2-2
+Added Net: Name=NetQ2_B
+Added Pin To Net: NetName=NetQ2_E Pin=R1-1
+Added Net: Name=NetQ2_E
+Added Pin To Net: NetName=NetQ3_E Pin=R3-1
+Added Net: Name=NetQ3_E
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q5-1
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R6-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R7-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_E Pin=R4b-1
+Added Net: Name=NetQ7_E
+Added Pin To Net: NetName=NetQ8_E Pin=R5b-1
+Added Net: Name=NetQ8_E
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_2 Pin=Q10-1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q13-1
+Added Pin To Net: NetName=NetQ9_2 Pin=R10-1
+Added Net: Name=NetQ9_2
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_2 Pin=R9-1
+Added Net: Name=NetQ10_2
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=Ra-1
+Added Pin To Net: NetName=NetQ12_1 Pin=Rb-2
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=NetQ13_2 Pin=Q13-2
+Added Pin To Net: NetName=NetQ13_2 Pin=R11-1
+Added Net: Name=NetQ13_2
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R13-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R14-2
+Added Net: Name=NetQ16_1
+Added Pin To Net: NetName=NetR4a_2 Pin=R4a-2
+Added Pin To Net: NetName=NetR4a_2 Pin=R4b-2
+Added Net: Name=NetR4a_2
+Added Pin To Net: NetName=NetR5a_2 Pin=R5a-2
+Added Pin To Net: NetName=NetR5a_2 Pin=R5b-2
+Added Net: Name=NetR5a_2
+Added Pin To Net: NetName=Vin Pin=B1-1
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=C2-1
+Added Pin To Net: NetName=Vin Pin=D1-2
+Added Pin To Net: NetName=Vin Pin=Q4-3
+Added Pin To Net: NetName=Vin Pin=Q5-3
+Added Pin To Net: NetName=Vin Pin=Q9-3
+Added Pin To Net: NetName=Vin Pin=Q11-3
+Added Pin To Net: NetName=Vin Pin=Q14-2
+Added Pin To Net: NetName=Vin Pin=R1-2
+Added Pin To Net: NetName=Vin Pin=R3-2
+Added Pin To Net: NetName=Vin Pin=R4a-1
+Added Pin To Net: NetName=Vin Pin=R5a-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=Vout Pin=B2-1
+Added Pin To Net: NetName=Vout Pin=C3-1
+Added Pin To Net: NetName=Vout Pin=C4-1
+Added Pin To Net: NetName=Vout Pin=Q16-2
+Added Pin To Net: NetName=Vout Pin=R15-1
+Added Pin To Net: NetName=Vout Pin=Ra-2
+Added Pin To Net: NetName=Vout Pin=Ra-3
+Added Net: Name=Vout
+Added Pin To Net: NetName=Vpair Pin=J7-1
+Added Pin To Net: NetName=Vpair Pin=Q11-2
+Added Pin To Net: NetName=Vpair Pin=Q12-2
+Added Pin To Net: NetName=Vpair Pin=Q13-3
+Added Net: Name=Vpair
+Added Pin To Net: NetName=Vref Pin=J6-1
+Added Pin To Net: NetName=Vref Pin=Q11-1
+Added Pin To Net: NetName=Vref Pin=Rc1-1
+Added Pin To Net: NetName=Vref Pin=Rc2-1
+Added Net: Name=Vref
+Added Class: Name=Fuente_TP1
+Added Room: Name=Fuente_TP1

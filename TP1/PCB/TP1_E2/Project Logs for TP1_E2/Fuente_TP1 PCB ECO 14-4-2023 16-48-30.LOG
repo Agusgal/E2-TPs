@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vout Pin=B2-1
+Removed Pin From Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=Vout Pin=B2-2
+Added Room: Name=Fuente_TP1
