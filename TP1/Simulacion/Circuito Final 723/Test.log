@@ -4,7 +4,6 @@ Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
 Warning: Multiple definitions of model "bc847b" Type: BJT
-WARNING: Less than two connections to node nc_01.  This node is used by q16.
 WARNING: Less than two connections to node n017.  This node is used by q9.
 WARNING: Less than two connections to node vin2.  This node is used by v5.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
@@ -21,58 +20,27 @@ vernier = 0.25
 vernier = 0.125
 Gmin = 4.01735e-06
 vernier = 0.0625
-vernier = 0.03125
-vernier = 0.015625
-vernier = 0.0078125
-vernier = 0.00390625
-vernier = 0.00195312
-vernier = 0.000976562
-Gmin = 4.0144e-06
-vernier = 0.00130208
-vernier = 0.00173611
-Gmin = 4.00114e-06
-vernier = 0.00231481
-Gmin = 3.98036e-06
-vernier = 0.00308642
-vernier = 0.00411522
-Gmin = 3.94572e-06
-vernier = 0.00548696
-vernier = 0.00731595
-Gmin = 3.89112e-06
-vernier = 0.00975459
-Gmin = 3.80674e-06
-vernier = 0.0130061
-vernier = 0.0173415
-Gmin = 3.66926e-06
-vernier = 0.023122
-vernier = 0.0308293
-Gmin = 3.46046e-06
-vernier = 0.0411057
-Gmin = 3.15613e-06
-vernier = 0.0548076
-vernier = 0.0730768
-Gmin = 2.70547e-06
-vernier = 0.0974357
-vernier = 0.129914
-Gmin = 2.11857e-06
-vernier = 0.173219
-Gmin = 1.44561e-06
-vernier = 0.230959
-vernier = 0.307945
-Gmin = 7.67252e-07
-vernier = 0.410593
-vernier = 0.547457
-Gmin = 2.8476e-07
-vernier = 0.729942
-Gmin = 6.23547e-08
-vernier = 0.973256
+vernier = 0.0833333
+Gmin = 3.42336e-06
+vernier = 0.111111
+vernier = 0.148148
+Gmin = 2.59155e-06
+vernier = 0.197531
+Gmin = 1.67795e-06
+vernier = 0.263374
+vernier = 0.351165
+Gmin = 8.17402e-07
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 2.66027e-07
+vernier = 0.832392
+Gmin = 4.7904e-08
 vernier = 1
-Gmin = 6.91424e-09
-Gmin = 7.4241e-10
-Gmin = 7.97157e-11
-Gmin = 8.55941e-12
-Gmin = 9.1906e-13
-Gmin = 0
+Gmin = 5.14365e-09
+Gmin = 5.52295e-10
+Gmin = 5.93023e-11
+Gmin = 6.36753e-12
+Gmin = 6.83709e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
@@ -80,66 +48,66 @@ Semiconductor Device Operating Points:
                         --- Diodes ---
 Name:      d2          d1        d:u1:1
 Model:    1n750     tfzv6_8b    u1:dmodel
-Id:     -3.54e-03   -4.39e-03   -4.39e-12
-Vd:     -4.60e+00   -6.61e+00   -3.39e+00
+Id:     -3.54e-03   -4.39e-03   -4.30e-12
+Vd:     -4.60e+00   -6.61e+00   -3.30e+00
 Req:     2.00e+01    1.18e+00    1.00e+12
 CAP:     5.94e-11    0.00e+00    0.00e+00
 
                         --- Bipolar Transistors ---
 Name:       q16         q12         q11         q6          q4
 Model:    2n2222      2n2222      2n2222      2n2222      2n2222
-Ib:       1.04e-11    1.54e-05    2.38e-05    8.39e-07    8.02e-08
-Ic:       0.00e+00    3.20e-03    5.00e-03    1.78e-04    1.69e-05
-Vbe:      2.14e-01    6.85e-01    6.97e-01    6.09e-01    5.48e-01
-Vbc:      2.06e-01   -5.02e+00   -6.85e+00   -6.22e+00   -5.17e+00
-Vce:      7.59e-03    5.70e+00    7.55e+00    6.83e+00    5.72e+00
-BetaDC:   0.00e+00    2.08e+02    2.10e+02    2.12e+02    2.10e+02
-Gm:       3.84e-10    1.22e-01    1.90e-01    6.88e-03    6.52e-04
-Rpi:      1.17e+11    1.68e+03    1.09e+03    3.08e+04    3.22e+05
+Ib:       1.57e-05    4.29e-07    3.89e-05    8.39e-07    8.06e-08
+Ic:       3.16e-03    9.02e-05    8.11e-03    1.78e-04    1.69e-05
+Vbe:      6.86e-01    5.92e-01    7.10e-01    6.09e-01    5.48e-01
+Vbc:     -1.59e+00   -5.26e+00   -6.91e+00   -6.22e+00   -5.17e+00
+Vce:      2.28e+00    5.85e+00    7.62e+00    6.83e+00    5.72e+00
+BetaDC:   2.01e+02    2.10e+02    2.09e+02    2.12e+02    2.10e+02
+Gm:       1.21e-01    3.49e-03    3.06e-01    6.88e-03    6.55e-04
+Rpi:      1.64e+03    6.03e+04    6.65e+02    3.08e+04    3.21e+05
 Rx:       1.00e+01    1.00e+01    1.00e+01    1.00e+01    1.00e+01
-Ro:       8.87e+08    3.29e+04    2.14e+04    5.96e+05    6.23e+06
-Cbe:      2.79e-11    0.00e+00    0.00e+00    0.00e+00    0.00e+00
-Cbc:      8.90e-12    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ro:       3.21e+04    1.17e+06    1.32e+04    5.96e+05    6.21e+06
+Cbe:      8.84e-11    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbc:      5.49e-12    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
-BetaAC:   4.48e+01    2.06e+02    2.07e+02    2.12e+02    2.10e+02
+BetaAC:   1.99e+02    2.10e+02    2.03e+02    2.12e+02    2.10e+02
 Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
-Ft:       1.66e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ft:       2.05e+08    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 
 Name:       q5          q10         q13         q9          q2
 Model:    2n2222      2n2222      2n2222      2n2222      2n2907
 Ib:       1.70e-05    1.92e-05    4.13e-05    1.58e-04   -3.15e-05
-Ic:       3.54e-03    3.81e-03    8.24e-03    0.00e+00   -7.69e-03
+Ic:       3.56e-03    3.81e-03    8.24e-03    0.00e+00   -7.69e-03
 Vbe:      6.88e-01    6.91e-01    7.12e-01    6.44e-01   -7.10e-01
-Vbc:     -5.72e+00   -6.44e-01   -2.50e+00    6.37e-01    0.00e+00
-Vce:      6.41e+00    1.34e+00    3.21e+00    7.53e-03   -7.10e-01
+Vbc:     -5.72e+00   -6.44e-01   -2.43e+00    6.37e-01    0.00e+00
+Vce:      6.41e+00    1.34e+00    3.14e+00    7.53e-03   -7.10e-01
 BetaDC:   2.09e+02    1.99e+02    2.00e+02    0.00e+00    2.44e+02
 Gm:       1.36e-01    1.45e-01    3.10e-01    5.98e-03    2.90e-01
-Rpi:      1.53e+03    1.35e+03    6.27e+02    8.33e+03    8.20e+02
+Rpi:      1.52e+03    1.35e+03    6.26e+02    8.32e+03    8.20e+02
 Rx:       1.00e+01    1.00e+01    1.00e+01    1.00e+01    1.00e+01
-Ro:       2.98e+04    2.64e+04    1.24e+04    5.61e+01    1.56e+04
+Ro:       2.97e+04    2.64e+04    1.24e+04    5.61e+01    1.56e+04
 Cbe:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cbc:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
-BetaAC:   2.07e+02    1.96e+02    1.95e+02    4.98e+01    2.38e+02
+BetaAC:   2.07e+02    1.96e+02    1.94e+02    4.98e+01    2.38e+02
 Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Ft:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 
 Name:       q3          q8          q7        q:u1:1      q:u1:2
 Model:    2n2907      2n2907      2n2907     u1:qmodel  u1:q1model
-Ib:      -6.91e-07   -1.60e-05   -1.50e-05    6.97e-04    6.87e-02
-Ic:      -1.78e-04   -3.96e-03   -3.97e-03    6.89e-02    1.60e+00
-Vbe:     -6.10e-01   -6.92e-01   -6.90e-01    6.32e-01    9.13e-01
-Vbc:      3.83e+00    5.03e-01    8.06e+00   -1.85e+00   -2.48e+00
-Vce:     -4.44e+00   -1.20e+00   -8.75e+00    2.48e+00    3.39e+00
-BetaDC:   2.58e+02    2.48e+02    2.64e+02    9.88e+01    2.33e+01
-Gm:       6.88e-03    1.51e-01    1.51e-01    1.81e+00    3.19e+01
-Rpi:      3.74e+04    1.62e+03    1.72e+03    4.73e+01    4.03e-01
-Rx:       1.00e+01    1.00e+01    1.00e+01    4.82e+00    2.26e+00
-Ro:       6.95e+05    3.05e+04    3.23e+04    4.59e+02    2.02e+01
+Ib:      -6.91e-07   -1.60e-05   -1.50e-05    6.38e-04    6.34e-02
+Ic:      -1.78e-04   -3.96e-03   -3.97e-03    6.36e-02    1.53e+00
+Vbe:     -6.10e-01   -6.92e-01   -6.90e-01    6.29e-01    9.02e-01
+Vbc:      3.83e+00    4.22e-01    8.06e+00   -1.76e+00   -2.39e+00
+Vce:     -4.44e+00   -1.11e+00   -8.75e+00    2.39e+00    3.30e+00
+BetaDC:   2.58e+02    2.48e+02    2.64e+02    9.96e+01    2.41e+01
+Gm:       6.88e-03    1.51e-01    1.51e-01    1.69e+00    3.04e+01
+Rpi:      3.74e+04    1.62e+03    1.72e+03    5.19e+01    4.38e-01
+Rx:       1.00e+01    1.00e+01    1.00e+01    4.83e+00    2.31e+00
+Ro:       6.95e+05    3.04e+04    3.23e+04    4.97e+02    2.12e+01
 Cbe:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cbc:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
-BetaAC:   2.58e+02    2.45e+02    2.60e+02    8.55e+01    1.29e+01
+BetaAC:   2.58e+02    2.44e+02    2.60e+02    8.79e+01    1.33e+01
 Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Ft:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
 
@@ -156,21 +124,21 @@ Cgd:     1.59e-12
 
 
 
-Date: Fri Apr 14 12:35:51 2023
-Total elapsed time: 0.897 seconds.
+Date: Fri Apr 14 14:21:36 2023
+Total elapsed time: 0.500 seconds.
 
 tnom = 27
 temp = 27
 method = trap
-totiter = 1755
+totiter = 1050
 traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 82
-fillins = 107
+matrix size = 81
+fillins = 113
 solver = Normal
-Avg thread counts: 1.2/0.0/2.0/1.2
-Matrix Compiler1: 12.12 KB object code size
-Matrix Compiler2: 9.00 KB object code size  2.0/2.3/[1.5]
+Avg thread counts: 1.3/0.0/2.5/1.3
+Matrix Compiler1: 12.47 KB object code size
+Matrix Compiler2: 9.06 KB object code size  1.6/2.1/[1.4]
 
