@@ -1,0 +1,26 @@
+Change component parameters: Designator = "Q2"; Footprint = "TO92"; UniqueID = "\OEXQZOJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q3"; Footprint = "TO92"; UniqueID = "\SHRUSGXT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q7"; Footprint = "TO92"; UniqueID = "\JNKEZTMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q8"; Footprint = "TO92"; UniqueID = "\DIRGVWIY"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ2_B Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_B Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_E Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_B Pin=Q3-1
+Added Pin To Net: NetName=NetIM5_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_E Pin=Q3-3
+Added Pin To Net: NetName=NetQ2_B Pin=Q7-1
+Added Pin To Net: NetName=NetIM4_1 Pin=Q7-2
+Added Pin To Net: NetName=NetQ7_E Pin=Q7-3
+Added Pin To Net: NetName=NetQ2_B Pin=Q8-1
+Added Pin To Net: NetName=NetIM3_1 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_E Pin=Q8-3
+Change Net Name : Old Net Name=NetQ2_B New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ2_E New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ3_E New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ7_E New Net Name=NetQ7_3
+Change Net Name : Old Net Name=NetQ8_E New Net Name=NetQ8_3
+Added Room: Name=Fuente_TP1
