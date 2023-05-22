@@ -1,0 +1,76 @@
+Circuit: * C:\Users\lucia\OneDrive\Documents\1C2023\Electrónica II\TP2\circuito libro Agus.asc
+
+WARNING: Node N029 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+Gmin = 5.25143e-006
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 5.28603e-006
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 5.18729e-006
+vernier = 0.0138889
+Gmin = 5.02794e-006
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 4.7716e-006
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 4.39016e-006
+vernier = 0.0585276
+Gmin = 3.85185e-006
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 3.09537e-006
+vernier = 0.138732
+vernier = 0.184976
+Gmin = 2.18926e-006
+vernier = 0.246634
+Gmin = 1.27602e-006
+vernier = 0.328846
+vernier = 0.438461
+Gmin = 5.23955e-007
+vernier = 0.584614
+vernier = 0.779486
+Gmin = 1.31477e-007
+vernier = 1
+Gmin = 1.69085e-008
+Gmin = 1.81554e-009
+Gmin = 1.94942e-010
+Gmin = 2.09317e-011
+Gmin = 2.24753e-012
+Gmin = 2.41326e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun May 21 21:06:40 2023
+Total elapsed time: 2.131 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 155458
+traniter = 153796
+tranpoints = 47589
+accept = 33025
+rejected = 14564
+matrix size = 91
+fillins = 136
+solver = Normal
+Matrix Compiler1: 13.77 KB object code size  2.0/1.0/[0.6]
+Matrix Compiler2: 10.89 KB object code size  1.2/1.1/[0.5]
+
