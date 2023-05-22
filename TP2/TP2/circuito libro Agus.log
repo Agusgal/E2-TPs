@@ -1,10 +1,7 @@
-Circuit: * C:\Users\Agus\Documents\GitHub\E2-TPs\TP2\TP2\circuito libro Agus.asc
+Circuit: * C:\Users\lucia\OneDrive\Documents\1C2023\Electrónica II\TP2 git\E2-TPs\TP2\TP2\circuito libro Agus.asc
 
-Warning: Multiple definitions of model "2scr375p" Type: BJT
-Warning: Multiple definitions of model "bc857b" Type: BJT
-Warning: Multiple definitions of model "bc847c" Type: BJT
-Warning: Multiple definitions of model "bc847b" Type: BJT
-WARNING: Node N032 is floating.
+R45: both pins shorted together -- ignoring.
+WARNING: Node N042 is floating.
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -14,58 +11,76 @@ Gmin = 0.115292
 Gmin = 0.0123794
 Gmin = 0.00132923
 Gmin = 0.000142725
-Gmin = 1.5325e-05
+Gmin = 1.5325e-005
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
 vernier = 0.0625
-Gmin = 1.28209e-05
+Gmin = 1.28209e-005
 vernier = 0.03125
 vernier = 0.0416667
-Gmin = 1.18309e-05
+Gmin = 1.19541e-005
 vernier = 0.0555555
 vernier = 0.074074
-Gmin = 1.02834e-05
+Gmin = 1.04738e-005
 vernier = 0.0987653
-Gmin = 8.25471e-06
+Gmin = 8.45853e-006
 vernier = 0.131687
 vernier = 0.175583
-Gmin = 5.7236e-06
+Gmin = 5.97484e-006
 vernier = 0.23411
 vernier = 0.312147
-Gmin = 3.21273e-06
+Gmin = 3.46344e-006
 vernier = 0.416196
-Gmin = 1.31344e-06
+Gmin = 1.4501e-006
 vernier = 0.554928
 vernier = 0.739903
-Gmin = 3.05523e-07
+Gmin = 3.62037e-007
 vernier = 0.986537
 vernier = 1
-Gmin = 3.70997e-08
-Gmin = 3.98355e-09
-Gmin = 4.2773e-10
-Gmin = 4.59272e-11
-Gmin = 4.93139e-12
-Gmin = 5.29504e-13
+Gmin = 4.63746e-008
+Gmin = 4.97943e-009
+Gmin = 5.34663e-010
+Gmin = 5.7409e-011
+Gmin = 6.16424e-012
+Gmin = 6.6188e-013
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
+N-Period=1
+Fourier components of V(vout)
+DC component:-0.00475594
 
-Date: Mon May 22 16:34:02 2023
-Total elapsed time: 101.903 seconds.
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+04	1.567e+01	1.000e+00	   -0.52°	    0.00°
+    2   	2.000e+04	1.046e-04	6.675e-06	 -172.92°	 -172.40°
+    3   	3.000e+04	3.961e-04	2.528e-05	  166.76°	  167.29°
+    4   	4.000e+04	6.261e-05	3.997e-06	  -70.22°	  -69.70°
+    5   	5.000e+04	3.854e-04	2.460e-05	  166.33°	  166.85°
+    6   	6.000e+04	4.694e-05	2.996e-06	  -95.36°	  -94.84°
+    7   	7.000e+04	1.960e-04	1.251e-05	  157.56°	  158.08°
+    8   	8.000e+04	3.073e-05	1.962e-06	  -94.51°	  -93.99°
+    9   	9.000e+04	4.944e-05	3.156e-06	  -30.73°	  -30.20°
+Total Harmonic Distortion: 0.003853%(0.022944%)
+
+
+
+Date: Mon May 22 17:02:13 2023
+Total elapsed time: 1.883 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 4222440
-traniter = 4220920
-tranpoints = 1397291
-accept = 951824
-rejected = 445467
-matrix size = 110
-fillins = 185
+totiter = 132975
+traniter = 131515
+tranpoints = 61030
+accept = 61030
+rejected = 0
+matrix size = 104
+fillins = 173
 solver = Normal
-Avg thread counts: 1.0/3.0/1.0/1.0
-Matrix Compiler1: 18.03 KB object code size  4.6/2.4/[1.5]
-Matrix Compiler2: 13.51 KB object code size  2.1/2.4/[1.5]
+Thread vector: 6.1/3.7[2] 3.4/2.7[2] 1.9/1.9[1] 0.4/1.7[1]  2592/500
+Matrix Compiler1: 15.74 KB object code size  3.0/1.7/[0.9]
+Matrix Compiler2: 12.68 KB object code size  1.1/1.8/[0.9]
 
