@@ -4,7 +4,7 @@ Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
 Warning: Multiple definitions of model "bc847b" Type: BJT
-WARNING: Node N024 is floating.
+WARNING: Node N022 is floating.
 WARNING: Node NC_01 is floating.
 
 WARNING: Less than two connections to node nc_01.  This node is used by c7.
@@ -53,27 +53,50 @@ Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 33.3333%
-Source Step = 63.6364%
-Source Step = 93.9394%
+Source Step = 7.38636%
+Source Step = 9.2803%
+Source Step = 11.1742%
+Source Step = 13.0682%
+Source Step = 14.9621%
+vernier = 0.09375
+Source Step = 17.4242%
+Source Step = 20.2652%
+Source Step = 23.1061%
+Source Step = 25.947%
+Source Step = 28.7879%
+vernier = 0.140625
+Source Step = 32.339%
+Source Step = 36.6004%
+Source Step = 40.8617%
+Source Step = 45.1231%
+Source Step = 49.3845%
+vernier = 0.210938
+Source Step = 54.4981%
+Source Step = 60.8902%
+Source Step = 67.2822%
+Source Step = 73.6742%
+Source Step = 80.0663%
+vernier = 0.316406
+Source Step = 87.4171%
+Source Step = 97.0052%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Sun May 28 19:59:53 2023
-Total elapsed time: 1.699 seconds.
+Date: Sun May 28 21:35:26 2023
+Total elapsed time: 1.619 seconds.
 
 tnom = 27
 temp = 27
 method = trap
-totiter = 8211
+totiter = 8969
 traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 123
-fillins = 183
+matrix size = 113
+fillins = 170
 solver = Normal
-Avg thread counts: 1.0/0.0/3.0/1.0
-Matrix Compiler1:    1048 opcodes
-Matrix Compiler2: 14.97 KB object code size  2.2/2.9/[2.1]
+Avg thread counts: 2.0/0.0/1.8/1.0
+Matrix Compiler1:     933 opcodes
+Matrix Compiler2: 13.61 KB object code size  2.1/2.3/[1.5]
 
