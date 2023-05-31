@@ -1,0 +1,137 @@
+Circuit: * C:\Users\Agus\Documents\GitHub\E2-TPs\TP2\Simulacion\AmplificadorXD posta.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node N016 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.12184
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.05021
+vernier = 0.0078125
+Gmin = 1.02792
+vernier = 0.0104167
+vernier = 0.00520833
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.02037
+vernier = 0.00173611
+Gmin = 1.01551
+vernier = 0.00231481
+vernier = 0.00115741
+vernier = 0.00154321
+Gmin = 1.01248
+vernier = 0.000771604
+vernier = 0.00102881
+Gmin = 1.01046
+vernier = 0.000514403
+Gmin = 1.00904
+vernier = 0.00068587
+vernier = 0.000914493
+vernier = 0.000457247
+Gmin = 1.00777
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 1.00685
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 5.49242%
+Source Step = 5.96591%
+Source Step = 6.43939%
+Source Step = 6.91288%
+Source Step = 7.38636%
+vernier = 0.0234375
+Source Step = 7.93087%
+Source Step = 8.6411%
+Source Step = 9.35133%
+Source Step = 10.0616%
+Source Step = 10.7718%
+vernier = 0.0351562
+Source Step = 11.553%
+Source Step = 12.6184%
+Source Step = 13.6837%
+Source Step = 14.7491%
+Source Step = 15.8144%
+vernier = 0.0527344
+Source Step = 16.933%
+Source Step = 18.531%
+Source Step = 20.129%
+Source Step = 21.727%
+Source Step = 23.325%
+Source Step = 24.9231%
+vernier = 0.0791016
+Source Step = 27.3201%
+Source Step = 29.7171%
+Source Step = 32.1141%
+Source Step = 34.5111%
+Source Step = 36.9081%
+vernier = 0.118652
+Source Step = 40.3838%
+Source Step = 43.9793%
+Source Step = 47.5749%
+Source Step = 51.1704%
+Source Step = 54.7659%
+vernier = 0.177979
+Source Step = 59.7997%
+Source Step = 65.1929%
+Source Step = 70.5862%
+Source Step = 75.9795%
+Source Step = 81.3728%
+vernier = 0.266968
+Source Step = 88.6537%
+Source Step = 96.7437%
+Source stepping succeeded in finding the operating point.
+
+N-Period=1
+Fourier components of V(vout)
+DC component:1.58436
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.595e+1	 1.000e+0	   89.12°	    0.00°
+    2   	 2.000e+4	 2.754e+0	 1.727e-1	 -152.17°	 -241.30°
+    3   	 3.000e+4	 2.731e+0	 1.713e-1	  127.86°	   38.74°
+    4   	 4.000e+4	 2.194e+0	 1.376e-1	   56.44°	  -32.69°
+    5   	 5.000e+4	 1.902e+0	 1.193e-1	  -26.10°	 -115.22°
+    6   	 6.000e+4	 1.355e+0	 8.495e-2	  -93.89°	 -183.01°
+    7   	 7.000e+4	 8.995e-1	 5.641e-2	  178.29°	   89.16°
+    8   	 8.000e+4	 4.345e-1	 2.725e-2	  115.22°	   26.09°
+    9   	 9.000e+4	 1.433e-1	 8.986e-3	  -55.83°	 -144.95°
+Partial Harmonic Distortion: 32.178924%
+Total Harmonic Distortion:   33.699530%
+
+
+
+Date: Wed May 31 12:59:47 2023
+Total elapsed time: 23.613 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 614035
+traniter = 604413
+tranpoints = 262982
+accept = 245352
+rejected = 17630
+matrix size = 123
+fillins = 192
+solver = Normal
+Avg thread counts: 2.0/2.0/1.0/1.0
+Matrix Compiler1: 19.50 KB object code size  5.5/2.8/[1.9]
+Matrix Compiler2: 14.75 KB object code size  2.7/2.9/[2.0]
+
