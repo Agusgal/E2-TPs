@@ -50,69 +50,69 @@ Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 6.25%
-Source Step = 8.14394%
-Source Step = 10.0379%
-Source Step = 11.9318%
-Source Step = 13.8258%
-vernier = 0.09375
-Source Step = 16.0985%
-Source Step = 18.9394%
-Source Step = 21.7803%
-Source Step = 24.6212%
-Source Step = 27.4621%
-vernier = 0.140625
-Source Step = 30.7292%
-Source Step = 34.9905%
-Source Step = 39.2519%
-Source Step = 43.5133%
-Source Step = 47.7746%
-vernier = 0.210938
-Source Step = 52.4621%
-Source Step = 58.8542%
-Source Step = 65.2462%
-Source Step = 71.6383%
-Source Step = 78.0303%
-vernier = 0.316406
-Source Step = 84.742%
-Source Step = 94.33%
+Source Step = 5.49242%
+Source Step = 5.96591%
+Source Step = 6.43939%
+Source Step = 6.91288%
+Source Step = 7.38636%
+vernier = 0.0234375
+Source Step = 7.93087%
+Source Step = 8.6411%
+Source Step = 9.35133%
+Source Step = 10.0616%
+Source Step = 10.7718%
+vernier = 0.0351562
+Source Step = 11.553%
+Source Step = 12.6184%
+Source Step = 13.6837%
+Source Step = 14.7491%
+Source Step = 15.8144%
+vernier = 0.0527344
+Source Step = 16.933%
+Source Step = 18.531%
+Source Step = 20.129%
+Source Step = 21.727%
+Source Step = 23.325%
+Source Step = 24.9231%
+vernier = 0.0791016
+Source Step = 27.3201%
+Source Step = 29.7171%
+Source Step = 32.1141%
+Source Step = 34.5111%
+Source Step = 36.9081%
+vernier = 0.118652
+Source Step = 40.3838%
+Source Step = 43.9793%
+Source Step = 47.5749%
+Source Step = 51.1704%
+Source Step = 54.7659%
+vernier = 0.177979
+Source Step = 59.7997%
+Source Step = 65.1929%
+Source Step = 70.5862%
+Source Step = 75.9795%
+Source Step = 81.3728%
+vernier = 0.266968
+Source Step = 88.6537%
+Source Step = 96.7437%
 Source stepping succeeded in finding the operating point.
 
-N-Period=1
-Fourier components of V(vout)
-DC component:-0.00348347
 
-Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
- Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
-    1   	 1.000e+4	 1.588e+1	 1.000e+0	   91.34°	    0.00°
-    2   	 2.000e+4	 1.086e-5	 6.839e-7	  -24.36°	 -115.70°
-    3   	 3.000e+4	 5.633e-5	 3.546e-6	   54.42°	  -36.93°
-    4   	 4.000e+4	 9.819e-5	 6.181e-6	   98.56°	    7.21°
-    5   	 5.000e+4	 1.181e-4	 7.435e-6	 -170.10°	 -261.44°
-    6   	 6.000e+4	 9.720e-6	 6.120e-7	  -87.28°	 -178.62°
-    7   	 7.000e+4	 2.852e-5	 1.796e-6	 -142.48°	 -233.82°
-    8   	 8.000e+4	 3.112e-5	 1.959e-6	   20.41°	  -70.93°
-    9   	 9.000e+4	 8.293e-5	 5.221e-6	   94.33°	    2.99°
-Partial Harmonic Distortion: 0.001188%
-Total Harmonic Distortion:   0.000000%
-
-
-
-Date: Wed May 31 13:17:41 2023
-Total elapsed time: 22.188 seconds.
+Date: Wed May 31 13:20:44 2023
+Total elapsed time: 2.279 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 429120
-traniter = 420043
-tranpoints = 210021
-accept = 210021
+method = trap
+totiter = 9632
+traniter = 0
+tranpoints = 0
+accept = 0
 rejected = 0
 matrix size = 127
-fillins = 201
+fillins = 199
 solver = Normal
-Avg thread counts: 3.0/3.0/1.0/1.0
-Matrix Compiler1: 20.05 KB object code size  5.7/2.7/[1.9]
-Matrix Compiler2: 15.35 KB object code size  2.7/3.3/[2.5]
+Avg thread counts: 2.0/0.0/1.6/1.0
+Matrix Compiler1:    1057 opcodes
+Matrix Compiler2: 15.40 KB object code size  2.3/2.5/[1.9]
 

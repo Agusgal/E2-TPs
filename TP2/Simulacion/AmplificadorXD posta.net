@@ -87,12 +87,12 @@ Q12 N030 N041 V- 0 2N2222
 .lib C:\Users\Agus\AppData\Local\LTspice\lib\cmp\standard.bjt
 ;.fourier 1000 V(Vout)
 ;.tran 0 50m 40m 0.5u ;50m 40m 0.5u
-.fourier 10000 V(Vout)
-.tran 0 10.5m 5.5m 0.05u
+;.fourier 10000 V(Vout)
+;.tran 0 10.5m 5.5m 0.05u
 .param Vin 0.5
 .param Freq=10k
 * polo dominante de todo el circuito
-;ac dec 100 1 1Meg
+.ac dec 100 1 1Meg
 .lib TCLib/pot.lib
 .lib TCLib/TIP110.lib
 .lib TCLib/TIP115.lib
