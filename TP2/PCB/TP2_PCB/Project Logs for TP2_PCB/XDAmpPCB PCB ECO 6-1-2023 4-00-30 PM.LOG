@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=VCC Pin=C5-2
+Change Component Footprint: Designator=C1 Old Footprint=0805CAP New Footprint=CAP100
+Change Component Footprint: Designator=C2 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Footprint: Designator=C4 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Footprint: Designator=C5 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Footprint: Designator=C6 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Footprint: Designator=C9 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Footprint: Designator=C11 Old Footprint=0805CAP New Footprint=CAP100RP
+Change Component Comment : Designator=R31 Old Comment=1k1 New Comment=1k
+Change Component Comment : Designator=R32 Old Comment=1k1 New Comment=1k
+Change Component Comment : Designator=R38 Old Comment=85 New Comment=100
+Change Component Comment : Designator=C9 Old Comment=200n New Comment=220u
+Change Component Comment : Designator=C11 Old Comment=200n New Comment=220u
+Change Component Comment : Designator=C10 Old Comment=220u New Comment=100n
+Change Component Comment : Designator=C12 Old Comment=220u New Comment=100n
+Change Component Comment : Designator=R33 Old Comment=250 New Comment=270
+Change Component Comment : Designator=R34 Old Comment=250 New Comment=270
+Change Component Comment : Designator=J1 Old Comment=BORNERA 2 New Comment=BORNERA
+Change Component Comment : Designator=J2 Old Comment=BORNERA 2 New Comment=BORNERA
+Change Component Comment : Designator=J3 Old Comment=BORNERA 2 New Comment=BORNERA
+Change Component Comment : Designator=R8 Old Comment=Potenciometro New Comment=100k
+Added Component: Designator=J5(JUMPER2)
+Added Component: Designator=L1(L_IHLP)
+Added Pin To Net: NetName=NetC2_2 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=NetC7_1 Pin=J5-1
+Added Pin To Net: NetName=-VCC Pin=J5-2
+Added Pin To Net: NetName=VoFeed Pin=L1-1
+Added Pin To Net: NetName=Vo Pin=L1-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R17-2
+Added Pin To Net: NetName=NetC5_2 Pin=R18-1
+Added Net: Name=NetC5_2
+Added Member To Class: ClassName=XDAmp Member=Component J5 JMP
+Added Member To Class: ClassName=XDAmp Member=Component L1 1u
+Added Room: Name=XDAmp

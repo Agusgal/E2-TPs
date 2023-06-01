@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R25 Old Footprint=0805 New Footprint=RES600
+Change Component Footprint: Designator=R26 Old Footprint=0805 New Footprint=RES600
+Change Component Footprint: Designator=R35 Old Footprint=0805 New Footprint=RES600
+Added Room: Name=XDAmp
