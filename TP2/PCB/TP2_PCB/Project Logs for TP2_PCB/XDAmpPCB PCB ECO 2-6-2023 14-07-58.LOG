@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R25 Old Footprint=RES600 New Footprint=0805
+Change Component Footprint: Designator=R26 Old Footprint=RES600 New Footprint=0805
+Added Member To Class: ClassName=XDAmp Member=Component Q16 2N2907
+Added Room: Name=XDAmp
