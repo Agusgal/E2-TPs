@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP100RP New Footprint=CAP300RP
+Change Component Footprint: Designator=C4 Old Footprint=CAP100RP New Footprint=CAP300RP
+Change Component Footprint: Designator=C5 Old Footprint=CAP100RP New Footprint=CAP300RP
+Change Component Footprint: Designator=C6 Old Footprint=CAP100RP New Footprint=CAP300RP
+Change Component Footprint: Designator=C9 Old Footprint=CAP100RP New Footprint=CAP300RP
+Change Component Footprint: Designator=C11 Old Footprint=CAP100RP New Footprint=CAP300RP
+Added Room: Name=XDAmp
