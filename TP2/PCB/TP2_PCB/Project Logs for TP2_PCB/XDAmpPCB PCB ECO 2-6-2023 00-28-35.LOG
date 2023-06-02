@@ -1,0 +1,17 @@
+Added Component: Designator=J6(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(3.5JACK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SJ1-3525N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vo Pin=J6-1
+Added Pin To Net: NetName=VoFeed Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=Vin Pin=J7-3
+Added Member To Class: ClassName=XDAmp Member=Component J6 JMP
+Added Member To Class: ClassName=XDAmp Member=Component J7 3.5JACK
+Added Room: Name=XDAmp
